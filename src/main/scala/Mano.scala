@@ -1,1 +1,0 @@
-case class Mano(cartas: List[Carta], jokers: List[Joker])
